@@ -17,7 +17,8 @@ local Config = {
         [6911148748]        = "https://api.luarmor.net/files/v4/loaders/07a30652ebbe87970997fa6c7eef8c09.lua",
         [110369730911937]   = "https://api.luarmor.net/files/v4/loaders/07a30652ebbe87970997fa6c7eef8c09.lua",
         [9233343468]        = "https://api.luarmor.net/files/v4/loaders/07a30652ebbe87970997fa6c7eef8c09.lua",
-        [131378148336503]   = "https://api.luarmor.net/files/v4/loaders/f390c2859a25f13a0f0665c549915a6d.lua"
+        [131378148336503]   = "https://api.luarmor.net/files/v4/loaders/f390c2859a25f13a0f0665c549915a6d.lua",
+        [131378148336503]   = "https://api.luarmor.net/files/v4/loaders/d6cf9371f4c7c2f39904bc9e03b5e5a8.lua"
     }
 }
 
